@@ -17,5 +17,5 @@
 	"fakethumb":"thumbnail_1.jpg", 
 	"donasi":"donasi.jpg",
 	"captionpay":"Scan untuk melakukan pembayaran",
-	"fake": " 「  CARDBOTZ  」\nCreated By ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
+	"fake": " 「  CARDBOTZ  」\nCreated By ᴹᴿ᭄ CARICARDBOTZ ×፝֟͜×"
 }
